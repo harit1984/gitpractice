@@ -1,4 +1,14 @@
 feature1
 echo "f1"
+<<<<<<< HEAD
 
 echo "f2"
+=======
+echo "f2"
+echo "f2"
+echo 
+ech "f3"
+
+
+echo "hello"
+>>>>>>> 549c96e9924b9b0b2e34fa5f1faba58f43ce6e8a
