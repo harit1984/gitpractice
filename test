@@ -5,4 +5,3 @@ echo "use Sonarque"
 
 echo "Use jenkins for automate"
  echo "reset cmd"
-echo "revert cmd"
