@@ -1,0 +1,4 @@
+main
+echo "first code"
+a=1+2
+echo "a"
