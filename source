@@ -1,4 +1,9 @@
 this the source file where developer working area
 
 echo " hellow developers"
+<<<<<<< Updated upstream
 echo "use java code"
+=======
+
+echo "Maven"
+>>>>>>> Stashed changes
