@@ -1,0 +1,3 @@
+#this is maven
+
+echo "It will run during maven"
